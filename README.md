@@ -99,8 +99,8 @@ Now we will start with the practical part of the assignment.
 
 ### What we use in this course
 
-* Ubuntu __18.04__
-* ROS __noetic__
+* Ubuntu __20.04__
+* ROS __Noetic__
 * Python
   * Version 2.7
   * Default with ROS noetic
