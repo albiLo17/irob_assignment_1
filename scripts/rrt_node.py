@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 from sensor import Sensor
 from math import exp, fabs, atan2, fmod, pi, hypot
 import numpy as np
