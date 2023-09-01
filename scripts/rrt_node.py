@@ -5,7 +5,7 @@ import numpy as np
 from nav_msgs.msg import Path
 from geometry_msgs.msg import PoseStamped
 from tf.transformations import quaternion_from_euler
-import sets
+#import sets
 
 
 def raytrace(start, end):
