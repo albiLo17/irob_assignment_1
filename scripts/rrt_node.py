@@ -93,7 +93,8 @@ class RRTNode:
         self._children.append(new_child)
 
     def erase_child(self, child):
-        self._children.remove(child)
+        if len(self._children) > 0:
+            self._children.remove(child)
 
     def get_children(self):
         return self._children
